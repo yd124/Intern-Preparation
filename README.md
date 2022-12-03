@@ -1,7 +1,7 @@
 # Intern-Preparation
 
-* BQ: Behavioral Questions
-* Statistics
+** BQ: Behavioral Questions
+** Statistics
 * Probability 
 * Calculus and Linear Algebra
 * Machine Learning
